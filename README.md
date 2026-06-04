@@ -63,11 +63,12 @@ The dataset contains chat messages labeled with sentiment classes. Each message 
 
 ## Results
 
-The project compares the performance of:
-1. Logistic Regression with Bag-of-Words
-2. LSTM with Word Embeddings
+| Model | Accuracy |
+|---------|---------|
+| Logistic Regression (Bag of Words) | 82% |
+| LSTM with Word Embeddings | 44% |
 
-The final comparison highlights the strengths of traditional machine learning and deep learning approaches for sentiment classification tasks.
+The comparison highlights the strengths of traditional machine learning and deep learning approaches for sentiment classification.
 
 ## Key Learning Outcomes
 
@@ -85,7 +86,3 @@ The final comparison highlights the strengths of traditional machine learning an
 - Transformer-based models (BERT)
 - Streamlit deployment for real-time predictions
 
-## Author
-
-Suhitha M S
-B.Tech Artificial Intelligence and Data Science

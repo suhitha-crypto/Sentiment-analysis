@@ -68,7 +68,7 @@ The dataset contains chat messages labeled with sentiment classes. Each message 
 | Logistic Regression (Bag of Words) | 82% |
 | LSTM with Word Embeddings | 44% |
 
-The comparison highlights the strengths of traditional machine learning and deep learning approaches for sentiment classification.
+In this dataset, the Logistic Regression model outperformed the LSTM model. The results suggest that traditional machine learning methods can be highly effective for sentiment classification, especially when working with limited datasets. The project provides a practical comparison between conventional NLP techniques and deep learning approaches.
 
 ## Key Learning Outcomes
 
